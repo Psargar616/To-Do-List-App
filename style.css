@@ -130,6 +130,13 @@ ul li span:hover {
   background: #edeef0;
 }
 
+@media screen and (max-width: 769px){
+  .wrappper{
+    height: 100vh;
+    padding: 0.5rem;
+  }
+}
+
 @media screen and (max-width: 426px) {
   .wrappper{
     height: 100vh;
